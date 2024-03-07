@@ -1,0 +1,16 @@
+{
+  "name": "hapi.js",
+  "version": "1.0.0",
+  "description": "that is hapi js ",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon Server/server.js"
+  },
+  "author": "touseef hussain",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.3",
+    "joi": "^17.12.2",
+    "mongoose": "^8.2.1"
+  }
+}
